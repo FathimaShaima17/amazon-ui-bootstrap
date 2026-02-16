@@ -8,7 +8,7 @@ This project recreates the layout and design style of Amazon using Bootstrap com
 
 ## 🌐 Live Demo
 
-👉 Add your live link here (GitHub Pages)
+👉Live link here (GitHub Pages)
 
 Example:
 https://github.com/FathimaShaima17/amazon-ui-bootstrap.git
