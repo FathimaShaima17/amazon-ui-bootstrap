@@ -10,8 +10,7 @@ This project is created for educational and practice purposes only.
 - Bootstrap 5
 
 ## 🚀 Live Demo
-https://fathimashaima17.github.io/amazon-ui-bootstrap/
-
+https://github.com/FathimaShaima17/amazon-ui-bootstrap.git
 ## 👩‍💻 Author
 Fathima Shaima
 
